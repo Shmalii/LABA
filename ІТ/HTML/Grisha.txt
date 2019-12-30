@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<font size =40 color= red><I><B>Інформація про студента </B></I></font>
+
+</HEAD>
+<BODY>
+<body background="-16.jpg">
+<p><abbr title="Hypertext Markup Language">HTML</abbr></p>
+<marquee behavior="alternative" direction="left"><font size=15 color=blue> Шмалій Григорій Григорович</font></marquee>
+<HR>
+<p> Студент першого курсу ФТІ. Група ФБ-81</p>
+<marquee><img src="ivan.jpg" width="400" height="300">
+<img src="dd5fcbaea19123820b706d45c466f658.jpg" width="400" height="300"></marquee>
+<p>Сайт про C++:<A HREF="http://cpp.dp.ua/vykorystannya-masyviv/">cpp.dp.ua/vykorystannya-masyviv</a></p>
+</BODY>
+</HTML>
